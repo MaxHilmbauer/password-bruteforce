@@ -1,4 +1,4 @@
-# password-bruteforce
+# password-cracker
 A brute force password cracker built in kotlin.
 ## Get started
 1. Clone the repository from github. Open the project in an IDE of your choice (e.g. [IntelliJ IDEA](https://www.jetbrains.com/idea/)).
